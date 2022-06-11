@@ -1,0 +1,8 @@
+body {
+    font-family: "Righteous", cursive;
+    min-height: 100vh;
+    background-color: #a9c9ff;
+    box-sizing: inherit;
+    background: linear-gradient(to left, #486c9b, #d1d3e0);
+  }
+  
